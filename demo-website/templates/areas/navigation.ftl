@@ -1,4 +1,4 @@
-[#include "/demo-website/templates/macros/navigation.ftl"]
+[#include "/demo-lm/templates/macros/navigation.ftl"]
 
 [#assign navigationRootPage = navfn.rootPage(content)!]
 
